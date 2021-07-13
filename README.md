@@ -2,6 +2,7 @@
 
 喜欢 RSS 的可以订阅[博客](https://limboy.me)，这里可以多一些交互（如评论）。
 
+- [[译] Paul Graham: Life is Short](https://github.com/lzyy/telescope/discussions/8)
 - [推荐一部真人秀：双层公寓（都会男女）](https://github.com/lzyy/telescope/discussions/7)
 - [近日随想](https://github.com/lzyy/telescope/discussions/6)
 - [从「创新者」看计算机发展史](https://github.com/lzyy/telescope/discussions/5)
