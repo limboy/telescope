@@ -2,6 +2,7 @@
 
 喜欢 RSS 的可以订阅[博客](https://limboy.me)，这里可以多一些交互（如评论）。
 
+- [如何生活（How to Live）](https://github.com/lzyy/telescope/discussions/10)
 - [我的音乐播放器可能跟你的不太一样](https://github.com/lzyy/telescope/discussions/9)
 - [[译] Paul Graham: Life is Short](https://github.com/lzyy/telescope/discussions/8)
 - [推荐一部真人秀：双层公寓（都会男女）](https://github.com/lzyy/telescope/discussions/7)
