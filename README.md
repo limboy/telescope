@@ -1,6 +1,6 @@
 分享一些觉得不错的内容，有时也会夹杂着一些随笔，内容跟博客同步。
 
-喜欢 RSS 的可以订阅[博客](https://limboy.me)，这里可以多一些交互（如评论）。
+喜欢 RSS 的可以订阅[博客](https://limboy.me)，或者 watch（有新文章会推送到邮箱）。
 
 - [如何生活（How to Live）](https://github.com/lzyy/telescope/discussions/10)
 - [我的音乐播放器可能跟你的不太一样](https://github.com/lzyy/telescope/discussions/9)
